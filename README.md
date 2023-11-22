@@ -2,6 +2,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sulemanof&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adie&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="adie" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adie&show_icons=true&theme=gruvbox&locale=en" alt="adie" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adie&theme=gruvbox" alt="adie" /></p>
+
 <!--
 **sulemanof/sulemanof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
